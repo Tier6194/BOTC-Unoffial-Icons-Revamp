@@ -3,3 +3,7 @@ This is a side project by me to try and revamp the unofficial BOTC icons. Just c
 
 ## Contributers
 just me as of now
+
+
+## How this shit is formatted
+so you can see how theres a seperate icons folder despite there being folders for each edition? thats cuz the edition folders will have the icons post cropping so they fit on the unofficial tokens all flush and nice and the icons folder will have the raw image for viewing
